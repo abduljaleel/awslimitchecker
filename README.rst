@@ -140,7 +140,7 @@ Contributions
 
 Pull requests are most definitely welcome. Please cut them against the **develop** branch. For more information, see
 the `development documentation <http://awslimitchecker.readthedocs.org/en/latest/development.html#pull-requests>`_. I'm
-also happy to accept contributions in the form of bug reports, feature requests, testing, etc.
+happy to accept contributions in the form of bug reports, feature requests, testing, etc.
 
 License
 -------
